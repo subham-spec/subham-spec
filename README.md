@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Subham Sharma</h1>
 <h3 align="center">A passionate Problem Solver and UX/UI Designer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subham-spec&label=Profile%20views&color=0e75b6&style=flat" alt="subham-spec" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subham-spec" alt="subham-spec" /></a> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=subham-spec&label=Profile%20views&color=0e75b6&style=flat" alt="subham-spec"> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/this_is_subham" target="blank"><img src="https://img.shields.io/twitter/follow/this_is_subham?logo=twitter&style=for-the-badge" alt="this_is_subham" /></a> </p>
+<p align="left">
+    <a href="https://twitter.com/this_is_subham" target="blank">
+        <img src="https://img.shields.io/twitter/follow/this_is_subham?logo=twitter&style=for-the-badge" alt="this_is_subham" />
+    </a>
+</p>
 
 - 🌱 I’m currently learning **Node.js and Express.js**
 
@@ -21,7 +27,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/this_is_subham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="this_is_subham" height="30" width="40" /></a>
+<a href="https://twitter.com/this_is_subham" target="blank">
+    <img align="center" 
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+        alt="this_is_subham" 
+        height="30" 
+        width="40" 
+    />
+</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/subham-sharma-5152721b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subham-sharma-5152721b3/" height="30" width="40" /></a>
 <a href="https://instagram.com/_imshubhamsharma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_imshubhamsharma_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/subhamsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhamsharma" height="30" width="40" /></a>
@@ -37,3 +50,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subham-spec&show_icons=true&locale=en" alt="subham-spec" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-spec&" alt="subham-spec" /></p>
+
+
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=subham-spec" alt="subham-spec" />
+    </a>
+</p>
+
