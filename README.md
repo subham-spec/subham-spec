@@ -13,17 +13,17 @@
     </a>
 </p>
 
-- 🌱 I’m currently learning **Node.js and Express.js**
+- 🌱 Software Development Engineer (Backend) experience in designing and operating scalable distributed systems. Expertise in large-scale document processing, RESTful services, cloud-native architectures, and LLM-powered information extraction. Proven track record of improving system reliability, performance, and accuracy at scale (1M+ documents). Strong foundation in Data Structures, Algorithms, and system design, with experience owning services end-to-end in high-availability environments.
 
 - 👨‍💻 All of my projects are available at [https://github.com/subham-spec/subham-spec](https://github.com/subham-spec/subham-spec)
 
 - 📝 I regularly write articles on [https://www.instagram.com/_imshubhamsharma_/](https://www.instagram.com/_imshubhamsharma_/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java or C++**
+- 💬 Ask me about **Python, LLM, System Design, Architecture Design, AWS, Microservices, API's, Document Processing**
 
-- 📫 How to reach me **subham.pandit@hotmial.com**
+- 📫 How to reach me **subham.pandit@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KIEjgme0VVJ5Gx4FqXHS3HO1vmLeRWV4/view?usp=share_link](https://drive.google.com/file/d/1KIEjgme0VVJ5Gx4FqXHS3HO1vmLeRWV4/view?usp=share_link)
+- 📄 Know about my experiences. Raise a request to access. [Resume]([https://drive.google.com/file/d/1KIEjgme0VVJ5Gx4FqXHS3HO1vmLeRWV4/view?usp=share_link](https://drive.google.com/file/d/1HtDs-aYvGFPlfBgnOxNx73lb2XeokWLl/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
