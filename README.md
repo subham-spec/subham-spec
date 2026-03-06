@@ -25,6 +25,19 @@
 
 - 📄 Know about my experiences. Raise a request to access. [Resume]([https://drive.google.com/file/d/1KIEjgme0VVJ5Gx4FqXHS3HO1vmLeRWV4/view?usp=share_link](https://drive.google.com/file/d/1HtDs-aYvGFPlfBgnOxNx73lb2XeokWLl/view?usp=sharing))
 
+<h3 align="left">Know about me: Raise request to view my resume:</h3>
+<p align="left">
+<a href="[https://twitter.com/this_is_subham](https://drive.google.com/file/d/1KIEjgme0VVJ5Gx4FqXHS3HO1vmLeRWV4/view?usp=share_link](https://drive.google.com/file/d/1HtDs-aYvGFPlfBgnOxNx73lb2XeokWLl/view?usp=sharing)" target="blank">
+    <img align="center" 
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pdf.svg" 
+        alt="this_is_subham" 
+        height="30" 
+        width="40" 
+    />
+</a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/this_is_subham" target="blank">
